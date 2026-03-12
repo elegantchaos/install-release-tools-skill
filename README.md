@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/logo.svg" alt="Install Release Tools - Agent Skill" height="100" />
+</p>
+
 # Install Release Tools
 
 This repository contains the `install-release-tools` agent skill.
